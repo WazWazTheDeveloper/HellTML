@@ -1,0 +1,480 @@
+# based on https://codepen.io/ayush602/pen/mdQJreW
+
+pages:
+  login_page:
+    html:
+      head:
+        children:
+          meta&1:
+            charset: "UTF-8"
+          meta&2:
+            name: "viewport"
+            content: "width=device-width, initial-scale=1.0"
+          link:
+            rel: "stylesheet"
+            href: ./login_page.css
+          title:
+            children_text: "CodePen - Animated Login Form using Html &amp; CSS Only"
+  
+      body:
+        children:
+          section:
+            children:
+              span&0:
+              span&1:
+              span&2:
+              span&3:
+              span&4:
+              span&5:
+              span&7:
+              span&8:
+              span&9:
+              span&10:
+              span&11:
+              span&12:
+              span&13:
+              span&14:
+              span&15:
+              span&16:
+              span&17:
+              span&18:
+              span&19:
+              span&20:
+              span&21:
+              span&22:
+              span&23:
+              span&24:
+              span&25:
+              span&26:
+              span&27:
+              span&28:
+              span&29:
+              span&30:
+              span&31:
+              span&32:
+              span&33:
+              span&34:
+              span&35:
+              span&36:
+              span&37:
+              span&38:
+              span&39:
+              span&40:
+              span&41:
+              span&42:
+              span&43:
+              span&44:
+              span&45:
+              span&46:
+              span&47:
+              span&48:
+              span&49:
+              span&50:
+              span&51:
+              span&52:
+              span&53:
+              span&54:
+              span&55:
+              span&56:
+              span&57:
+              span&58:
+              span&59:
+              span&60:
+              span&61:
+              span&62:
+              span&63:
+              span&64:
+              span&65:
+              span&66:
+              span&67:
+              span&68:
+              span&69:
+              span&70:
+              span&71:
+              span&72:
+              span&73:
+              span&74:
+              span&75:
+              span&76:
+              span&77:
+              span&78:
+              span&79:
+              span&80:
+              span&81:
+              span&82:
+              span&83:
+              span&84:
+              span&85:
+              span&86:
+              span&87:
+              span&88:
+              span&89:
+              span&90:
+              span&91:
+              span&92:
+              span&93:
+              span&94:
+              span&95:
+              span&96:
+              span&97:
+              span&98:
+              span&99:
+              span&100:
+              span&101:
+              span&102:
+              span&103:
+              span&104:
+              span&105:
+              span&106:
+              span&107:
+              span&108:
+              span&109:
+              span&110:
+              span&111:
+              span&112:
+              span&113:
+              span&114:
+              span&115:
+              span&116:
+              span&117:
+              span&118:
+              span&119:
+              span&120:
+              span&121:
+              span&122:
+              span&123:
+              span&124:
+              span&125:
+              span&126:
+              span&127:
+              span&128:
+              span&129:
+              span&130:
+              span&131:
+              span&132:
+              span&133:
+              span&134:
+              span&135:
+              span&136:
+              span&137:
+              span&138:
+              span&139:
+              span&140:
+              span&141:
+              span&142:
+              span&143:
+              span&144:
+              span&145:
+              span&146:
+              span&147:
+              span&148:
+              span&149:
+              span&150:
+              span&151:
+              span&152:
+              span&153:
+              span&154:
+              span&155:
+              span&156:
+              span&157:
+              span&158:
+              span&159:
+              span&160:
+              span&161:
+              span&162:
+              span&163:
+              span&164:
+              span&165:
+              span&166:
+              span&167:
+              span&168:
+              span&169:
+              span&170:
+              span&171:
+              span&172:
+              span&173:
+              span&174:
+              span&175:
+              span&176:
+              span&177:
+              span&178:
+              span&179:
+              span&180:
+              span&181:
+              span&182:
+              span&183:
+              span&184:
+              span&185:
+              span&186:
+              span&187:
+              span&188:
+              span&189:
+              span&190:
+              span&191:
+              span&192:
+              span&193:
+              span&194:
+              span&195:
+              span&196:
+              span&197:
+              span&198:
+              span&199:
+              span&200:
+              span&201:
+              span&202:
+              span&203:
+              span&204:
+              span&205:
+              span&206:
+              span&207:
+              span&208:
+              span&209:
+              span&210:
+              span&211:
+              span&212:
+              span&213:
+              span&214:
+              span&215:
+              span&216:
+              span&217:
+              span&218:
+              span&219:
+              span&220:
+              span&221:
+              span&222:
+              span&223:
+              span&224:
+              span&225:
+              span&226:
+              span&227:
+              span&228:
+              span&229:
+              span&230:
+              span&231:
+              span&232:
+              span&233:
+              span&234:
+              span&235:
+              span&236:
+              span&237:
+              span&238:
+              span&239:
+              span&240:
+              span&241:
+              span&242:
+              span&243:
+              span&244:
+              span&245:
+              span&246:
+              span&247:
+              span&248:
+              span&249:
+              span&250:
+              span&251:
+              span&252:
+              span&253:
+              span&254:
+              span&255:
+              span&256:
+              span&257:
+              span&258:
+              span&259:
+              span&260:
+
+              div:
+                class: "signin"
+                children:
+                  div:
+                    class: "content"
+                    children:
+                      h2:
+                        children_text: Sign In
+
+                      div:
+                        class: "form"
+                        children:
+                          div&0:
+                            class: "inputBox"
+                            children: 
+                              input:
+                                type : "text"
+                              i: 
+                                children_text: Username
+
+                          div&1:
+                            class: "inputBox"
+                            children: 
+                              input:
+                                type : "password"
+                              i: 
+                                children_text: Password
+
+                          div&2:
+                            class: "links"
+                            children:
+                              a&0:
+                                href: "#"
+                                children_text: Forgot Password
+                              a&1:
+                                href: "#"
+                                children_text: Signup
+
+                          div&3:
+                            class: "inputBox"
+                            children:
+                              input:
+                                type: "submit"
+                                value: "Login"
+
+    css:
+      "*":
+        margin: 0
+        padding: 0
+        box-sizing: border-box
+        font-family: "'Quicksand', sans-serif"
+
+      body:
+        display: flex
+        justify-content: center
+        align-items: center
+        min-height: 100vh
+        background: "#000"
+
+      section:
+        position: absolute
+        width: 100vw
+        height: 100vh
+        display: flex
+        justify-content: center
+        align-items: center
+        gap: 2px
+        flex-wrap: wrap
+        overflow: hidden
+
+      section::before :
+        content: "''"
+        position: absolute
+        width: 100%
+        height: 100%
+        background: "linear-gradient(#000, #0f0, #000)"
+        animation: animate 5s linear infinite
+
+      "@keyframes animate":
+        children:
+          "0%": 
+            transform: translateY(-100%)
+          "100%":
+            transform: translateY(100%)
+
+      section span :
+        position: relative
+        display: block
+        width: calc(6.25vw - 2px)
+        height: calc(6.25vw - 2px)
+        background: "#181818"
+        z-index: 2
+        transition: 1.5s
+
+      section span:hover :
+        background: "#0f0"
+        transition: 0s
+
+      section .signin :
+        position: absolute
+        width: 400px
+        background: "#222"
+        z-index: 1000
+        display: flex
+        justify-content: center
+        align-items: center
+        padding: 40px
+        border-radius: 4px
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 9)
+
+      section .signin .content :
+        position: relative
+        width: 100%
+        display: flex
+        justify-content: center
+        align-items: center
+        flex-direction: column
+        gap: 40px
+
+      section .signin .content h2 :
+        font-size: 2em
+        color: "#0f0"
+        text-transform: uppercase
+
+      section .signin .content .form :
+        width: 100%
+        display: flex
+        flex-direction: column
+        gap: 25px
+
+      section .signin .content .form .inputBox :
+        position: relative
+        width: 100%
+
+      section .signin .content .form .inputBox input :
+        position: relative
+        width: 100%
+        background: "#333"
+        border: none
+        outline: none
+        padding: 25px 10px 7.5px
+        border-radius: 4px
+        color: "#fff"
+        font-weight: 500
+        font-size: 1em
+
+      section .signin .content .form .inputBox i :
+        position: absolute
+        left: 0
+        padding: 15px 10px
+        font-style: normal
+        color: "#aaa"
+        transition: 0.5s
+        pointer-events: none
+
+      .signin .content .form .inputBox input:focus~i, .signin .content .form .inputBox input:valid~i :
+        transform: translateY(-7.5px)
+        font-size: 0.8em
+        color: "#fff"
+
+      .signin .content .form .links :
+        position: relative
+        width: 100%
+        display: flex
+        justify-content: space-between
+
+      .signin .content .form .links a :
+        color: "#fff"
+        text-decoration: none
+
+      .signin .content .form .links a:nth-child(2) :
+        color: "#0f0"
+        font-weight: 600
+
+      .signin .content .form .inputBox input[type="submit"] :
+        padding: 10px
+        background: "#0f0"
+        color: "#000"
+        font-weight: 600
+        font-size: 1.35em
+        letter-spacing: 0.05em
+        cursor: pointer
+
+      input[type="submit"]:active :
+        opacity: 0.6
+
+      "@media (max-width: 900px)" :
+        children: 
+          section span:
+            width: "calc(10vw - 2px)"
+            height: "calc(10vw - 2px)"
+
+      "@media (max-width: 600px)" :
+        children: 
+          section span:
+            width: "calc(10vw - 2px)"
+            height: "calc(10vw - 2px)"
